@@ -1,5 +1,6 @@
 # My simple gulp pack
-(in terminal):
+    in terminal
+    
     1)cd _dev 
 
     2)npm i
